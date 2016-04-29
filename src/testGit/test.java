@@ -7,6 +7,7 @@ public class test {
 		System.out.println("a");
 		String a = "a";
 		String b = "b";
+		String c = "c";
 	}
 
 }
